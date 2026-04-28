@@ -17,7 +17,7 @@
 - 🌱 Exploring **LLM integration**, **transformer fine-tuning**, and **MLOps**
 - 💬 Ask me about **NLP, Deep Learning, Python, HuggingFace, PyTorch**
 - 📍 Based in **Tunisia**
-- ⚡ Fun fact: I built a personal AI assistant called **Miles** that understands context across conversations
+- ⚡ Fun fact: I like combining innovation and creativity
 
 ---
 
