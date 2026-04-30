@@ -25,8 +25,10 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**Style Match**](https://github.com/InesAouissaoui/stylematch-ai) | Upload a clothing item photo and watch outfit suggestions branch out from your piece like a mood board. | `Python` `PyTorch` `LLM` `FastAPI` |
+| [**AutoDiag AI**](https://github.com/InesAouissaoui/autodiag-ai) | Vehicle diagnostics tool: describe a car problem in plain language, get cause analysis, severity rating, cost estimates, and repair guidance | `CLIP` `FastAPI` `NLP` `PyTorch` |
 | [**Miles Assistant**](https://github.com/InesAouissaoui/miles-assistant) | AI-powered personal assistant with multi-turn dialog, memory persistence, and context-aware responses | `Python` `NLP` `LLM` `FastAPI` |
+| [**ThreadGen AI**](https://github.com/InesAouissaoui/threadgen-ai) | AI fashion design studio: generates color palettes, fabric recommendations, generative patterns, and mood boards from text prompts | `CLIP` `FastAPI` `Pexels API` `Generative Art` |
+| [**Style Match**](https://github.com/InesAouissaoui/stylematch-ai) | Upload a clothing item photo and watch outfit suggestions branch out from your piece like a mood board. | `Python` `PyTorch` `LLM` `FastAPI` |
 | [**SmartSummarize**](https://github.com/InesAouissaoui/smart-summarize) | Document summarizer using Facebook's BART transformer with automatic chunking for long texts | `HuggingFace` `BART` `PyTorch` `Gradio` |
 | [**SentiViz**](https://github.com/InesAouissaoui/sentiviz) | Multilingual sentiment analysis tool (6 languages) with visual breakdowns and batch processing | `BERT` `Matplotlib` `Pandas` `Gradio` |
 | [**ImageSense**](https://github.com/InesAouissaoui/image-sense) | Image classifier comparing ResNet-50, EfficientNet & MobileNet with confidence charts | `PyTorch` `TorchVision` `Gradio` |
