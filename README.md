@@ -56,20 +56,6 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=InesAouissaoui&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6ee7b7&icon_color=6ee7b7&text_color=c9d1d9" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InesAouissaoui&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6ee7b7&text_color=c9d1d9" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=InesAouissaoui&theme=tokyonight&hide_border=true&background=0D1117&ring=6ee7b7&fire=6ee7b7&currStreakLabel=6ee7b7" />
-</p>
-
 ---
 
 ### 🏆 GitHub Activity Graph
